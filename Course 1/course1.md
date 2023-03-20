@@ -1,8 +1,8 @@
-{{ 
 # Supervised Learning with scikit-learn
 
 This folder contains code and resources for learning about supervised machine learning techniques using scikit-learn in Python.
 
+<!-- 
 ## Contents
 
 The folder contains the following files and directories:
@@ -30,4 +30,4 @@ The `datasets/` directory contains sample datasets used in the code examples. Th
 ## README.md
 
 `README.md` is the file you're currently reading! It provides an overview of the contents of this folder and how to use the code and resources provided here.
- }}
+ -->
