@@ -14,7 +14,7 @@ The learning path for the Machine Learning Scientist with Python certificate is 
 
 | Course Name | Link |
 | ----------- | ---- |
-| Supervised Learning with scikit-learn    | [Link to Course 1](./Course 1/) |
+| Supervised Learning with scikit-learn    | [Link to Course 1](course1.md) |
 | Unsupervised Learning in Python    | [Link to Course 2](course2.md) |
 
 I will be updating this repository regularly with my progress, including links to completed projects and any notes or reflections on what I've learned.
