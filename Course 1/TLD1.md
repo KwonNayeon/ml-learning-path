@@ -2,12 +2,10 @@
 
 ## March 21, 2023
 
-- Machine Learning
-  - How to train a decision tree classifier using scikit-learn
-  - How to evaluate the performance of a classifier using cross-validation
-- Natural Language Processing
-  - How to tokenize text data using NLTK
-  - How to compute term frequency-inverse document frequency (TF-IDF) for text data
+- Classification: K-Nearest Neighbors (KNN) algorithm
+  - Learned how to build a KNN model to make predictions and how to access the model's accuracy
+  - Clarified the concepts of underfitting and overfitting in machine learning
+  - Discovered an effective way to see the change of accuracy according to the number of neighbors by using a for loop
 
 ## March 22, 2023
 
