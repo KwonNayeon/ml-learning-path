@@ -9,13 +9,14 @@
 
 ## March 22, 2023
 
-- topic1
-  - detail1
-  - detail2
-- topic2
-  - detail1
-  - detail2
-- topic3
-  - detail1
-  - detail2
-  - detail3
+- Git
+  - I was supposed to take a lesson regarding regression.
+  - Instead, today I learned how to use Git to manage version control for my code projects.
+  - It took some time and effort, but I successfully connected Git and GitHub, and also integrated Git with my Jupyter Notebook workflow.
+  - I am writing this on Jupyter notebook, and it will be automatically in my GitHub page. Amazing!
+  
+## March 23, 2023
+
+- Regression
+  - I learned that in scikit-learn, features must be represented as a two-dimensional array.
+  - I figured out that if I have a one-dimensional feature vector, I can convert it into a two-dimensional feature matrix with one column using NumPy's reshape() method, which is the required format for scikit-learn.
