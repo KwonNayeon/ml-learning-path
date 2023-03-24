@@ -2,7 +2,6 @@
 
 This folder contains code and resources for learning about supervised machine learning techniques using scikit-learn in Python.
 
-<!-- 
 ## Contents
 
 The folder contains the following files and directories:
@@ -24,10 +23,11 @@ The folder contains the following files and directories:
 
 The `datasets/` directory contains sample datasets used in the code examples. The datasets include:
 
-- `customer_reviews.csv`: A dataset of customer reviews and ratings used in the classification models example.
-- `house_prices.csv`: A dataset of housing prices and features used in the regression models example.
+- `telecom_churn_clean.csv`: A dataset of ~ used in the classification models example.
+- `advertising_and_sales_clean.csv`: A dataset ~ used in the regression models example.
+- `diabetes_clean.csv`: 
+- `music_clean.csv`: 
 
 ## README.md
 
 `README.md` is the file you're currently reading! It provides an overview of the contents of this folder and how to use the code and resources provided here.
- -->

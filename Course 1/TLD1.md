@@ -20,3 +20,10 @@
 - Regression
   - I learned that in scikit-learn, features must be represented as a two-dimensional array.
   - I figured out that if I have a one-dimensional feature vector, I can convert it into a two-dimensional feature matrix with one column using NumPy's reshape() method, which is the required format for scikit-learn.
+
+## March 24, 2023
+
+- Even though I was tired from a job interview earlier today, I was determined to dedicate my time to learning regression models.
+- Regression
+  - During my review of regression models, I focused on two common evaluation metrics: R-squared (R^2) and Root Mean Squared Error (RMSE).
+  - At first, I was confused about how to calculate these metrics using Python. However, I was able to figure it out and now have a better understanding of how to use libraries like sklearn.metrics and numpy to compute R^2 and RMSE for regression models.
