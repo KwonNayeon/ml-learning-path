@@ -23,8 +23,8 @@ The folder contains the following files and directories:
 
 The `datasets/` directory contains sample datasets used in the code examples. The datasets include:
 
-- `telecom_churn_clean.csv`: A dataset of ~ used in the classification models example.
-- `advertising_and_sales_clean.csv`: A dataset ~ used in the regression models example.
+- `telecom_churn_clean.csv`: A dataset used in the classification models example.
+- `advertising_and_sales_clean.csv`: A dataset used in the regression models example.
 - `diabetes_clean.csv`: 
 - `music_clean.csv`: 
 

@@ -27,3 +27,16 @@
 - Regression
   - During my review of regression models, I focused on two common evaluation metrics: R-squared (R^2) and Root Mean Squared Error (RMSE).
   - At first, I was confused about how to calculate these metrics using Python. However, I was able to figure it out and now have a better understanding of how to use libraries like sklearn.metrics and numpy to compute R^2 and RMSE for regression models.
+  
+## March 25, 2023
+
+- Cross-validation
+  - I learned how to run cross-validation on Python using sklearn.
+  - When I was taking an advanced regression analysis course, this was one of the hardest concepts for me to understand.
+  - However, now I realize it is quite simple to implement and I understand what it's for.
+
+- Regularized regression: Ridge & Lasso
+  - I ran Ridge and Lasso, which are forms of regularized regression.
+  - These were also concepts I struggled to understand, especially the formulas.
+  - However, upon reviewing them, I found them to be quite simple and I understood the difference between them.
+  - Specifically, Lasso has some functions that allow for variable selection, unlike Ridge.
