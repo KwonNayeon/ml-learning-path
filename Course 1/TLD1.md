@@ -40,3 +40,10 @@
   - These were also concepts I struggled to understand, especially the formulas.
   - However, upon reviewing them, I found them to be quite simple and I understood the difference between them.
   - Specifically, Lasso has some functions that allow for variable selection, unlike Ridge.
+  
+## March 27, 2023
+
+- Deciding on a primary metric
+  - I reviewed about metrics for evaluating ML models, such as accuracy, recall, F1 score, and precision.
+  - I used to find it confusing to know which metric to use, but after taking a quiz, it became clearer.
+  - I learned how to calculate these metrics using Python's scikit-learn library.
