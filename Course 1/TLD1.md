@@ -47,3 +47,11 @@
   - I reviewed about metrics for evaluating ML models, such as accuracy, recall, F1 score, and precision.
   - I used to find it confusing to know which metric to use, but after taking a quiz, it became clearer.
   - I learned how to calculate these metrics using Python's scikit-learn library.
+   
+## March 28, 2023
+
+- Logistic regression
+  - Today I reviewed logistic regression, which is a quite familiar concept, but I mainly used it for calculating propensity score. It was a kind of new perspective to use this model for machine learning.
+- ROC curve
+  - I also reviewed ROC curve and AUROC. During a previous machine learning project, the ROC score was almost close to random guess, and I didn't know why it was a huge problem. After finishing the review, I finally grasped the concept and understood the problem I had with that project.
+  
