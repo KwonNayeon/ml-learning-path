@@ -54,4 +54,15 @@
   - Today I reviewed logistic regression, which is a quite familiar concept, but I mainly used it for calculating propensity score. It was a kind of new perspective to use this model for machine learning.
 - ROC curve
   - I also reviewed ROC curve and AUROC. During a previous machine learning project, the ROC score was almost close to random guess, and I didn't know why it was a huge problem. After finishing the review, I finally grasped the concept and understood the problem I had with that project.
-  
+   
+## March 31, 2023
+
+- Hyperparameter Tuning
+  - I always lacked confidence in hyperparameter tuning. However, I now have a clear understanding of the differences between Grid Search and Random Search and the advantages of each method. I am eager to try these methods in my machine learning project.
+- Grid Search
+  - Grid Search starts with defining a search space grid that consists of selected hyperparameter names and values.
+  - This method searches for the best combination of hyperparameters within the defined search space grid.
+- Random Search
+  - Random Search defines distributions for each hyperparameter, which can be defined uniformly or with a sampling method.
+  - Unlike Grid Search, Random Search does not test all possible values of hyperparameters, but randomly selects some values to evaluate the model's performance.
+  - This method returns a relatively good performing model in a significantly shorter time compared to Grid Search.
