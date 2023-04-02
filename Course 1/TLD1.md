@@ -66,3 +66,9 @@
   - Random Search defines distributions for each hyperparameter, which can be defined uniformly or with a sampling method.
   - Unlike Grid Search, Random Search does not test all possible values of hyperparameters, but randomly selects some values to evaluate the model's performance.
   - This method returns a relatively good performing model in a significantly shorter time compared to Grid Search.
+ 
+ ## April 2, 2023
+ - Preprocessing
+  - It became clear why we delete one of the dummy variables.
+  - First, let's say we have 7 categories. When the value of the 6 dummy variables is known, the seventh is directly referred to in this case.
+  - Second, the seventh dummy variable makes it impossible to calculate the inverse matrix of X'X.
