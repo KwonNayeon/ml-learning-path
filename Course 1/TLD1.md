@@ -72,3 +72,8 @@
   - It became clear why we delete one of the dummy variables.
   - First, let's say we have 7 categories. When the value of the 6 dummy variables is known, the seventh is directly referred to in this case.
   - Second, the seventh dummy variable makes it impossible to calculate the inverse matrix of X'X.
+  
+ ## April 3, 2023
+ - Handling missing data
+  - Today I learned how to drop missing data using Python. It was a great opportunity to expand my missing data handling skills in a programming context, as I have previously worked with missing data in R.
+  - Additionally, I used a pipeline in Python for the first time.
