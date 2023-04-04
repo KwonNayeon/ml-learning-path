@@ -68,12 +68,18 @@
   - This method returns a relatively good performing model in a significantly shorter time compared to Grid Search.
  
  ## April 2, 2023
- - Preprocessing
+- Preprocessing
   - It became clear why we delete one of the dummy variables.
   - First, let's say we have 7 categories. When the value of the 6 dummy variables is known, the seventh is directly referred to in this case.
   - Second, the seventh dummy variable makes it impossible to calculate the inverse matrix of X'X.
   
  ## April 3, 2023
- - Handling missing data
+- Handling missing data
   - Today I learned how to drop missing data using Python. It was a great opportunity to expand my missing data handling skills in a programming context, as I have previously worked with missing data in R.
   - Additionally, I used a pipeline in Python for the first time.
+  
+ ## April 4, 2023
+ - Scaling
+   - Today, I learned that accuracy can be affected by scaling.
+   - I also reviewed Lasso regression and logistic regression in Python.
+   - I found this review helpful as it reminded me of how to use functions practically.
