@@ -83,3 +83,9 @@
    - Today, I learned that accuracy can be affected by scaling.
    - I also reviewed Lasso regression and logistic regression in Python.
    - I found this review helpful as it reminded me of how to use functions practically.
+
+ ## April 27, 2023
+   - Reviewing the contents of the course helped me solve the practices of the session which I found challenging.
+   - Visualizing model performances can help me understand and clearly see the differences of model performance.
+   - I was unable to commit through git operations, which made me frustrated because I thought I could at least do that.
+   - I will fix the issue next time and believe that I can learn from my mistakes.
